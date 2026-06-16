@@ -75,8 +75,8 @@ jobs:
 
       - name: Check coverage thresholds
         run: |
-          echo "Coverage thresholds enforced (80% lines/functions/statements, 70% branches)"
-          echo "If this step passes, coverage is sufficient ✅"
+          echo "melakkan test semua nya"
+      
 
 
 
